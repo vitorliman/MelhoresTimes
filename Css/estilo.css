@@ -11,7 +11,7 @@
   height: auto; 
 }
 body{
-    background: url(../download.jpg) no-repeat center/cover;
+    background: url(../imagem/download.jpg) no-repeat center/cover;
 
 }
 h1{
@@ -35,4 +35,10 @@ table {
 .fla{
   font-family:sans-serif;
     color: red ;
+}
+.tit {
+    text-align: center;
+}
+body {
+    cursor: url(../imagem/flamengo.cur), auto;
 }
